@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - internet-store@localhost" uuid="2e76e273-572c-4d83-85e9-7b49b17b44e9">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>internet-store.*</schema-pattern>
+      <default-schemas>internet-store.*</default-schemas>
+    </data-source>
+    <data-source name="MySQL - autobase@localhost" uuid="13f31874-4294-4f76-b2c2-9f8416278af5">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>autobase.*</schema-pattern>
+      <default-schemas>autobase.*</default-schemas>
+    </data-source>
+  </component>
+</project>

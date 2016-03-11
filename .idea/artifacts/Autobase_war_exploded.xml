@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Autobase:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Autobase_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Autobase" />
+          <element id="dir-copy" path="$PROJECT_DIR$/src/resources" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jstl-1.2" />
+          <element id="library" level="project" name="mysql-connector-java-5.1.37-bin" />
+          <element id="library" level="project" name="javax" />
+          <element id="library" level="project" name="log4j2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Autobase/web/Web" />
+    </root>
+  </artifact>
+</component>

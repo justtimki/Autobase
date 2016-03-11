@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Autobase">
+    <output-path>$PROJECT_DIR$/out/artifacts/Autobase_war</output-path>
+    <root id="archive" name="Autobase.war">
+      <element id="artifact" artifact-name="Autobase:war exploded" />
+    </root>
+  </artifact>
+</component>
